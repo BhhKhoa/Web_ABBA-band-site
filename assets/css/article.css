@@ -1,0 +1,12 @@
+/* Article */
+.article-list__inner {
+    margin: 0;
+}
+
+.article-list__item {
+    width: 383px;
+}
+
+.article-list__item_image img {
+    height: 315px;
+}

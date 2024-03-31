@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="31px" viewBox="0 0 47 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CROWN">
+            <g id="Group-2-Copy">
+                <circle id="Oval-5" stroke="#939376" cx="3.5" cy="12.5" r="3"></circle>
+                <circle id="Oval-5-Copy" stroke="#939376" cx="16.5" cy="3.5" r="3"></circle>
+                <circle id="Oval-5-Copy-2" stroke="#939376" cx="31.5" cy="3.5" r="3"></circle>
+                <circle id="Oval-5-Copy-3" stroke="#939376" cx="43.5" cy="12.5" r="3"></circle>
+                <path d="M6.5,17.5 L12.5,26.5" id="Line-4" stroke="#979777" stroke-linecap="square"></path>
+                <path d="M34.5,17.5 L40.5,26.5" id="Line-4-Copy" stroke="#979777" stroke-linecap="square" transform="translate(37.500000, 22.000000) scale(-1, 1) translate(-37.500000, -22.000000) "></path>
+                <path d="M26.5,8.5 L30.5,26.5" id="Line-4-Copy-2" stroke="#979777" stroke-linecap="square" transform="translate(28.500000, 17.500000) scale(-1, 1) translate(-28.500000, -17.500000) "></path>
+                <path d="M16.5,8.5 L20.5,26.5" id="Line-4-Copy-3" stroke="#979777" stroke-linecap="square"></path>
+                <path d="M11.5,30.5 L34.5217289,30.5" id="Line-5" stroke="#919173" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
